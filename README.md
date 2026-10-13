@@ -6,7 +6,7 @@ Last tested on Unity 6.4
 
 <img width="447" height="382" alt="seb" src="https://github.com/user-attachments/assets/14279c8b-ddce-4fc0-8ba5-01059bf0eda3" />
 
-[drawio](https://github.com/TPS-Geronam/SimpleEventBus/blob/main/seb.drawio)
+[drawio](https://github.com/le-db/SimpleEventBus/blob/main/seb.drawio)
 
 The result datapath doesn't exist for non-{sync, async} events. Emitter-Bus-Listener: n-n-n
 
